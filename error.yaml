@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=./schemas/person.schema.json
+firstName: "Antonis"
+lastName: "Synodinos"
+age: 26

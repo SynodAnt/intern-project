@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=./schemas/version.schema.json
+name: My Project
+version: 1.0.0
+description: This is an example of yaml validation
